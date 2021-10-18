@@ -1,0 +1,5 @@
+# from GitHub
+- src: https://github.com/my0373/ansible_vim.git
+- src: https://github.com/my0373/ansible-linux-git.git
+- src: https://github.com/my0373/ansible_chrome.git
+- src: https://github.com/my0373/ansible_tmux.git

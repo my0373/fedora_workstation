@@ -1,0 +1,6 @@
+Installation instructions
+
+    # chmod +x ./setup.sh
+    # ./setup.sh 
+    # ansible-playbook site.yml -K
+

@@ -1,0 +1,7 @@
+# file: webservers.yml
+- hosts: localhost
+  roles:
+    - ansible-linux-git
+    - ansible_vim
+    - ansible_chrome
+    - ansible_tmux
