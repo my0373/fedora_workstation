@@ -5,3 +5,4 @@
     - ansible_vim
     - ansible_chrome
     - ansible_tmux
+    - ansible_linux_fonts
